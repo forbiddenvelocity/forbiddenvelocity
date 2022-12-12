@@ -1,4 +1,4 @@
-![image](https://ibb.co/nnBLxrz)
+![image](<a href="https://ibb.co/nnBLxrz"><img src="https://i.ibb.co/RBNDR2z/fbv.jpg" alt="fbv" border="0"></a>)
 
 <h1 align="center">Hi 👋, I'm Mubashir</h1>
 <h3 align="center">A Competitive Programmer and a learning front-end developer.</h3>

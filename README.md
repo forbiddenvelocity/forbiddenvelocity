@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://user-images.githubusercontent.com/116059615/207006950-4910d3b1-206c-4b48-aa6b-b95e982f9b17.png)]
+![image](https://ibb.co/nnBLxrz)
 
 <h1 align="center">Hi 👋, I'm Mubashir</h1>
 <h3 align="center">A Competitive Programmer and a learning front-end developer.</h3>
